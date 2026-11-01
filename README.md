@@ -32,7 +32,7 @@ This project focuses on analyzing sales data and creating an interactive dashboa
 ## 📷 Dashboard Preview
 Add your dashboard screenshot here.
 
-![Power BI Dashboard](dashboard_screenshot.png)
+![Power BI Dashboard](Dashboard.png)
 
 ## 💡 Key Learnings
 - Data cleaning and transformation using Power Query.
@@ -41,7 +41,7 @@ Add your dashboard screenshot here.
 - Presenting data insights in a clear and meaningful way.
 
 ## 👩‍💻 Author
-Your Name
+Dipali Dhole
 
 ## 🔗 Project Access
 Download the `.pbix` file from this repository and open it using Microsoft Power BI Desktop.
